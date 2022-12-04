@@ -43,7 +43,7 @@ best_student.grades['Python'] = [10, 10]
 
 print(best_student.finished_courses)
 print(best_student.courses_in_progress)
-print(best_student.grades)
+print(best_student.grades
 
 cool_mentor = Mentor('Some', 'Buddy')
 cool_mentor.courses_attached += ['Python']
