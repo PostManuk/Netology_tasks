@@ -189,7 +189,6 @@ def lecturer_rating(lecturers, course_name):
 
 
 print(f"Средний балл для всех студентов по курсу {'Git'}: {student_rating(students, 'Git')}")
-print()
-
 print(f"Средний балл для всех лекторов по курсу {'Python'}: {lecturer_rating(lecturers, 'Python')}")
 print()
+
